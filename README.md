@@ -1,1 +1,1 @@
- 
+shortetend and simplified
