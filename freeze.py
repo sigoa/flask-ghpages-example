@@ -1,2 +1,2 @@
-from project import main
-if __name__ == '__main__':     main.freezer.freeze()
+from FlaskProject import main
+if __name__ == '__main__':     main.freezer.freeze() 

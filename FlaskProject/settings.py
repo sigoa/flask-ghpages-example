@@ -21,8 +21,8 @@ FREEZER_DESTINATION = PROJECT_ROOT
 FREEZER_BASE_URL = "http://localhost/{0}".format(REPO_NAME)
 FREEZER_REMOVE_EXTRA_FILES = False  # IMPORTANT: If this is True, all app files will be deleted when you run the freezer
 
-'''  this shit is of no use here
+#  this shit is of no use here  ????
 FLATPAGES_MARKDOWN_EXTENSIONS = ['codehilite']   ####   OK so what the fuck  is this flat shit in here
 FLATPAGES_ROOT = os.path.join(APP_DIR, 'pages')
 FLATPAGES_EXTENSION = '.md' 
-'''
+

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from flask import Flask
-from flask_flatpages import FlatPages
+from flask_flatpages import FlatPages   #  are these being used at all ?
 from flask_frozen import Freezer
 
 app = Flask(__name__)
