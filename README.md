@@ -9,3 +9,5 @@ tells you bloody nothing at all.
 here is a guy with non existing command of the English language: "Frozen-Flask is only about deployment: instead of installing Python, a WGSI server and Flask on your server, you can use Frozen-Flask to freeze your application and only have static HTML files on your server."
 
 We all knew that web people are very stupid and unfit to do real computer work.
+
+maybe freeze() processes the bacon.md file to create the index.html bullshit. maybe no py code is ever executed by github.
