@@ -1,1 +1,0 @@
-shorter and simpler 
